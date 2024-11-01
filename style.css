@@ -1,0 +1,17 @@
+.widget-site-stats h2 span {
+    border-right: 1px solid;
+    color: #444444;
+    font-size: 49px;
+    line-height: 65px;
+    padding-right: 17px;
+}
+
+
+
+.widget-site-stats h2 {
+    color: gray;
+}
+
+.widget-site-stats {
+    padding-left: 2%;
+}
